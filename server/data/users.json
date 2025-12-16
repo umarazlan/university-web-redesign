@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "System Admin",
+    "email": "admin@awkum.edu.pk",
+    "password": "$2b$10$VxICmZb.Pbc4gxre6mp/VOm1e7tzWtIzyPMWukOrl0X13ao7bG/k6",
+    "role": "admin"
+  },
+  {
+    "id": "9313d36e-3049-4bab-9afb-075f7ecb2f7b",
+    "name": "Umar Azlan Khan ",
+    "email": "Umarazlan5787@gmail.com",
+    "cnic": "16102-6940237-5",
+    "password": "$2b$10$en5bExfOjNH/upoosZCtyuCcs82jnsHZs1BCUYpKlakpA5Kmfl7Oq",
+    "role": "student",
+    "createdAt": "2025-12-15T15:08:39.971Z"
+  },
+  {
+    "id": "e5fc0aa0-2cc2-4371-b2df-c678d68fcc3f",
+    "name": "Xavier's Team",
+    "email": "marazlan5787@gmail.com",
+    "cnic": "1610269402373",
+    "password": "$2b$10$u7JA4wE0CsSuVM/VLRYEeelhY5BbK91NupJItS5waDUVzp4RSTzj6",
+    "role": "student",
+    "createdAt": "2025-12-15T16:10:25.179Z"
+  }
+]

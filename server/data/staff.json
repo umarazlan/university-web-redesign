@@ -1,0 +1,13 @@
+[
+  {
+    "id": "42b468fd-fea0-4b10-831c-5924ffe2c7a0",
+    "name": "umar",
+    "email": "staff@gmail.com",
+    "staffId": "1",
+    "department": "cs",
+    "role": "HOD",
+    "status": "Active",
+    "password": "$2b$10$M.3lkaaA4l5xlrTbaIpcMeXHaUt7v6Ih3vkgIzdQorzFG5hFzTzta",
+    "dateJoined": "2025-12-15T16:54:29.891Z"
+  }
+]

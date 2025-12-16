@@ -1,0 +1,43 @@
+[
+  {
+    "id": "43588ec7-8da2-4243-b896-692d2c505990",
+    "title": "First Merit List",
+    "program": "Computer Science",
+    "generatedDate": "2025-12-15T14:28:43.252Z",
+    "list": [
+      {
+        "id": "fe7af11e-5954-4ffa-8713-bddee21ea98f",
+        "name": "umar",
+        "fatherName": "azlan",
+        "cnic": "1234567890",
+        "program": "Computer Science",
+        "testScore": 98,
+        "academicScore": 200,
+        "appliedDate": "2025-12-15T14:28:34.870Z",
+        "aggregate": "149.00"
+      }
+    ]
+  },
+  {
+    "id": "562c3c10-1ed8-419f-9c18-ca7e487b1757",
+    "title": "First Merit List",
+    "program": "Computer Science",
+    "generatedDate": "2025-12-15T16:12:51.261Z",
+    "list": [
+      {
+        "id": "e34defa4-6e19-4275-ae06-646198c20e8a",
+        "userId": "e5fc0aa0-2cc2-4371-b2df-c678d68fcc3f",
+        "name": "Unknown",
+        "fatherName": "123456",
+        "cnic": "12345",
+        "program": "Computer Science",
+        "testScore": 20,
+        "academicScore": 900,
+        "appliedDate": "2025-12-15T16:10:59.705Z",
+        "validUntil": "2026-01-14T16:10:59.705Z",
+        "status": "Pending",
+        "aggregate": "460.00"
+      }
+    ]
+  }
+]

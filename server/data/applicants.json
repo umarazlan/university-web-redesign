@@ -1,0 +1,15 @@
+[
+  {
+    "id": "e34defa4-6e19-4275-ae06-646198c20e8a",
+    "userId": "e5fc0aa0-2cc2-4371-b2df-c678d68fcc3f",
+    "name": "ali",
+    "fatherName": "123456",
+    "cnic": "12345",
+    "program": "Computer Science",
+    "testScore": 20,
+    "academicScore": 900,
+    "appliedDate": "2025-12-15T16:10:59.705Z",
+    "validUntil": "2026-01-14T16:10:59.705Z",
+    "status": "Pending"
+  }
+]
